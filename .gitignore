@@ -1,0 +1,10 @@
+# Visual Studio junk
+Builds/
+Builds/VisualStudio2019/.vs/
+*.VC.db
+*.ipch
+*.sdf
+*.pdb
+*.obj
+*.pch
+*.log
